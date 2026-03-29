@@ -41,3 +41,6 @@ Deepening my knowledge in cross-platform mobile development with React Native (E
 ![](https://nirzak-streak-stats.vercel.app/?user=zetaxalhaffar&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zetaxalhaffar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/zetaxalhaffar&layout=compact)
